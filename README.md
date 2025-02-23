@@ -1,2 +1,3 @@
 # GCP Devops Test Project
-- After Task 1 Changes
+## Docker Flask Application
+- This application is writern in python
